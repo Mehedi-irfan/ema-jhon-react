@@ -1,0 +1,24 @@
+.product{
+    display: flex;
+    border-bottom: 4px solid lightgray;
+    margin-right: 5px;
+    padding: 10px 5px;
+}
+.product-img{
+    width: 300px;
+}
+.product-info{
+    margin-left: 20px;
+}
+.product-info h3{
+    color: blue;
+}
+.btn-regualr{
+    background-color: goldenrod;
+    width: 180px;
+    padding: 8px 0px;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
